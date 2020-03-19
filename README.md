@@ -1,7 +1,6 @@
-~~~
 v1.0a
-by CJ Zhong
-~~~
+by cj.zhong@intertek.com
+
 
 [TOC]
 
